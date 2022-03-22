@@ -1,5 +1,5 @@
 <h1 align="center">Heyy 👋</h1>
-<h2 align="center">I am a game developer and pixel art artist</h2>
+<h2 align="center">My name is Erva</h2>
 
 - 🔭 I’m currently working on Unity.
 - 🌱 I’m currently learning 3D game development.
