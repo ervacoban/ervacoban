@@ -6,7 +6,7 @@
 - ⚡ I do pixel art as well.
 - 👯 I’m looking to collaborate on game projects.
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/ervacoban/" target="_blank">LinkedIn</a>.
-- 😄 Fun fact: I once fell asleep in the European Parliament and I have two dogs.
+- 😄 Fun fact: I have two <a href="https://raw.githubusercontent.com/ervacoban/website_test/main/images/hey.jpg" target="_blank">dogs</a>.
 
 <h2 align="center">Programming languages & Tools</h2>
 <p align="center"> 
